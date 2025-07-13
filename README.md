@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jmuntz
-- 👀 I’m interested in 🍩 🍔 🎮 
-- 🌱 I’m currently learning the clusterf*ck that is react
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
